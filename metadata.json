@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Simulator",
+  "description": "Realistic AI-powered job interview simulator with voice controls, adaptive follow-ups, per-question timer, detailed scoring reports, and progress history.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

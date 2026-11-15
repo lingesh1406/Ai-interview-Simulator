@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1731 >>
+stream
+BT
+/F2 18 Tf 1 0 0 1 50 750 Tm (Alex Morgan) Tj
+/F1 10 Tf 1 0 0 1 50 732 Tm (Full-Stack Software Engineer Intern  |  alex.morgan@example.com  |  github.com/alexmorgan) Tj
+/F2 12 Tf 1 0 0 1 50 700 Tm (SUMMARY) Tj
+/F1 10 Tf 1 0 0 1 50 684 Tm (Computer Science undergraduate focused on building responsive React web applications,) Tj
+/F1 10 Tf 1 0 0 1 50 670 Tm (REST APIs with Python/Flask and Node.js, and relational data models in SQLite and PostgreSQL.) Tj
+/F2 12 Tf 1 0 0 1 50 640 Tm (TECHNICAL SKILLS) Tj
+/F1 10 Tf 1 0 0 1 50 624 Tm (Languages: JavaScript \\(ES6+\\), TypeScript, Python, SQL, HTML5, CSS3) Tj
+/F1 10 Tf 1 0 0 1 50 610 Tm (Frameworks & Tools: React, Vite, Tailwind CSS, Flask, Express, SQLAlchemy, Git, Docker) Tj
+/F2 12 Tf 1 0 0 1 50 580 Tm (EXPERIENCE & PROJECTS) Tj
+/F2 10.5 Tf 1 0 0 1 50 563 Tm (TaskFlow Team Planner  -  Full-Stack Web App \\(React, Flask, SQLite\\)) Tj
+/F1 10 Tf 1 0 0 1 60 548 Tm (- Built a responsive kanban board and REST API supporting real-time task filtering and auth.) Tj
+/F1 10 Tf 1 0 0 1 60 534 Tm (- Reduced API response latency by 40% by adding indexed SQLite queries and pagination.) Tj
+/F2 10.5 Tf 1 0 0 1 50 508 Tm (Campus Event Finder  -  Frontend Developer Intern) Tj
+/F1 10 Tf 1 0 0 1 60 493 Tm (- Created accessible React components with keyboard navigation and light/dark themes.) Tj
+/F1 10 Tf 1 0 0 1 60 479 Tm (- Collaborated with 3 backend engineers to integrate search, bookmarks, and event reminders.) Tj
+/F2 12 Tf 1 0 0 1 50 449 Tm (EDUCATION) Tj
+/F1 10 Tf 1 0 0 1 50 433 Tm (B.S. in Computer Science  |  Expected May 2027  |  GPA: 3.8 / 4.0) Tj
+/F1 10 Tf 1 0 0 1 50 419 Tm (Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Engineering) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002034 00000 n 
+0000002104 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2179
+%%EOF
